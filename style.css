@@ -1,0 +1,53 @@
+.box{
+    /* border-color: black; */
+    border-radius: 10%;
+    height: 400px;
+    width: 300px;
+    margin: 0 auto;
+    display: inline-block;
+}
+.box:hover{
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+}
+.insta{
+    border: 10px rgb(244, 72, 72) solid;
+}
+.github{
+    border: 10px rgb(0, 0, 0) solid;
+}
+.linkedin{
+    border: 10px rgb(0, 119, 181) solid;
+}
+img{
+    height: 50px;
+    width: 50px;
+    margin-top: 20px;
+}
+.socialmedia{
+    text-align: center;
+}
+button{
+    border: 1px solid black;
+    border-radius: 5px;
+}
+button:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+
+}
+.instabutton{
+    background-color: #E1306C;
+    color: white;
+    font-size: 16px;
+}
+.githubbutton{
+    background-color: #000000;
+    color: white;
+    font-size: 16px;
+}
+.linkedinbutton{
+    background-color: #0077B5;
+    color: white;
+    font-size: 16px;
+}
