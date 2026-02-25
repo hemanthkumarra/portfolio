@@ -1,6 +1,6 @@
 # Social Media Portfolio Section
 
-A clean, visually appealing, and interactive "Social Media" links section designed for a personal developer portfolio. This project features custom-styled cards for Instagram, GitHub, and LinkedIn, complete with smooth hover animations.
+A clean, visually appealing, and interactive "Social Media" links section designed for a personal developer portfolio. This project features custom-styled cards for Instagram, GitHub, and LinkedIn, complete with smooth hover animations. Your site is live at https://hemanthkumarra.github.io/portfolio/
 
 ## 🚀 Features
 
