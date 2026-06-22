@@ -53,10 +53,10 @@ button:hover{
 }
 
 .profile{
-    
+    margin-top: 50px;
     background-color: rgb(255, 255, 255);
     border: 1px solid black;
-    border-radius: 10px;
+    border-radius: 15px;
     padding: 20px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
     background-color: rgb(5, 5, 5);
@@ -71,6 +71,8 @@ button:hover{
 
 .profile .details{
     text-align: left;
+    line-height: 1.6; /* Adds breathing room between lines of text */
+    margin-top: 10px;
     font-size: 18px;
     color: rgb(90, 88, 88);
 }
@@ -92,10 +94,19 @@ button:hover{
 }
 
 .header{
+    position: fixed;
+    top: 0;          
+    left: 0;         
+    width: 100%;     
+    z-index: 1000;   
+    background-color: rgba(69, 65, 65, 0.5);
+    backdrop-filter: blur(10px);
+    backdrop-radius:10%;
+
+
     display: flex;
     justify-content: space-between;
     text-align: left;
     font-size: 10px;
     color: rgb(131, 52, 52);
-    margin-left: 400px;
 }
