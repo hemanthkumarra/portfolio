@@ -24,7 +24,7 @@ function App() {
       <div className="content-wrapper">
         
         <div className="details">
-          <h2 className="roll">Web Developer</h2>
+          <h2 className="roll">Full Stack Developer</h2>
           <p className="description">
             I am a passionate web developer with expertise in creating dynamic, responsive, and user-friendly websites. 
             I enjoy turning complex problems into simple, beautiful, and intuitive designs. With a strong foundation 

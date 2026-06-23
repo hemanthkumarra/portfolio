@@ -101,7 +101,7 @@ button:hover{
     z-index: 1000;   
     background-color: rgba(69, 65, 65, 0.5);
     backdrop-filter: blur(10px);
-    backdrop-radius:10%;
+    border-radius: 10px 10px 10px 10px;
 
 
     display: flex;
